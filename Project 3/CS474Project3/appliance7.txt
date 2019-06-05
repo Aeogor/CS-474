@@ -1,0 +1,7 @@
+7
+Washing
+CPL
+7.999000
+this is the first filepath
+this is the second filepath
+another one

@@ -1,0 +1,7 @@
+1
+Dryer1
+LG1
+3.234234
+First file path
+second one
+last one
